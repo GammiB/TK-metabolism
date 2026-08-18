@@ -5,7 +5,8 @@ The key element of this repository is the integration of a one-compartment TK mo
 How to run this model for your own work?    
 Navigate to "BYOM/TK-metabolism", run "pathdefine.m", use "byom_metabolism_template.m" as your template. <br>
 Use molar concentrations as an input.
-
+<br>
+<br>
 To speed up the runtime we recommend the following:<br>
 1. The stiffness in the ODE causes difficulties with datasets with a long time axis and large contribution of steady state sections in the total experimental time.<br>
    Solution: Use days/10 as a model input (here: 2.8 instead of 28) -> !Do not forget to divide all resulting rate constants by 10 afterwards.<br>
