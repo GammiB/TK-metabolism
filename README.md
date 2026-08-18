@@ -8,7 +8,7 @@ Use molar concentrations as an input.
  <br>
  <br>
 *If you struggle with long runtime we recommend the following:*<br>
-1. The stiffness in the ODE causes difficulties with datasets with a long time axis and large contribution of steady state sections in the total experimental time.<br>
+1. The stiffness in the ODE causes difficulties with datasets with a long time axis and large contribution of steady state sections to the total experimental time.<br>
    Solution: Use days/10 as a model input (here: 2.8 instead of 28) -> !Do not forget to divide all resulting rate constants by 10 afterwards.<br>
 2. The default BYOM parameter space explorer only uses one core.<br>
    Solution: We implemented the activation of multiple cores (see file: README_activate_multiple_cores.pptx)<br>
