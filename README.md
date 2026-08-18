@@ -4,5 +4,6 @@ The key element of this repository is the integration of a one-compartment TK mo
 
 How to run this model for your own work?    
 Navigate to "BYOM/TK-metabolism", run "pathdefine.m", use "byom_metabolism_template.m" as your template.
+Use molar concentrations as an input.
 
 To JR: Add info on runtime optimization (cores, d/10),...
