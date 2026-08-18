@@ -1,4 +1,5 @@
-This project repository is connected to the journal article **‘Pesticides Never Walk Alone: Mixture Toxicity and Toxicokinetics of Five Formulated Pesticide Products in the Soil Arthropod Folsomia candida’** by Wehrli et al. 2026 (doi TBA). 
+This project repository is connected to the journal article: <br>
+**‘Pesticides Never Walk Alone: Mixture Toxicity and Toxicokinetics of Five Formulated Pesticide Products in the Soil Arthropod Folsomia candida’** by Wehrli et al. 2026 (doi TBA). 
 
 The key element of this repository is the integration of a one-compartment TK model including phase-one biotransformation (TK-metabolism) and dynamic exposure in the BYOM platform (https://www.debtox.info/byom.html). 
 
